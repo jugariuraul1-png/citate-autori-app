@@ -1,0 +1,17 @@
+#dependente
+node_modules/
+package-lock.json
+.vscode
+
+# Fisisere de sistem
+.DS_Store
+Thumbs.db
+#fisiere de configurare environment(date sensibile)
+.env
+.env.local
+#directoare de build
+dist/
+build/
+#fisiere log
+*.log
+npd-debug.log*

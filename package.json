@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.12",
+    "nodemon": "^3.1.14"
+  },
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js",
+    "json-server": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "joi": "^18.0.2"
+  }
+}
