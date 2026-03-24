@@ -1,15 +1,12 @@
-{
-  "quotes": [
-    {
-      "id": "2",
-      "author": "Einstein",
-      "quote": "Imagination is more important than knowledge."
-    },
-    {
-      "id": "c548",
-      "author": "Lao Tzu",
-      "quote": "To the mind that is still, the whole universe surrenders."
-    }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
-}
+[
+  {
+    "id": 1,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing."
+  },
+  {
+    "id": 2,
+    "author": "Einstein",
+    "quote": "Imagination is more important than knowledge."
+  }
+]
